@@ -35,6 +35,8 @@ Presentation here: https://docs.google.com/presentation/d/1Lh5aYOGD4tM-amNX-A1jT
 
           </body>
         </html>
+        
+        Font Awesome link that we will use: https://use.fontawesome.com/d1341f9b7a.js
  
  ### 5. Let's build!
 We want to add this photograph that I took in Seattle to our website!
