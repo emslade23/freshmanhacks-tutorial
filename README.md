@@ -1,4 +1,4 @@
-# Pre-Hacks Tutorial with Hack4Impact 
+# :tada: Freshman Hacks Tutorial with Hack4Impact! :tada:
 Today you will build your own personal website! We will build the website using HTML and CSS. 
 
 Presentation here: https://docs.google.com/presentation/d/1Lh5aYOGD4tM-amNX-A1jTP95XyxEthio_azAR7QRuqM/edit?usp=sharing
